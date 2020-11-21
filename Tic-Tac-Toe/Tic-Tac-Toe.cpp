@@ -197,7 +197,6 @@ int computer_move() {
 }
 
 void congrat_winner() {
-    cout << the_winner << human << computer;
     if (the_winner != -1) {
         if (the_winner == 1) {
             cout << "Human won";

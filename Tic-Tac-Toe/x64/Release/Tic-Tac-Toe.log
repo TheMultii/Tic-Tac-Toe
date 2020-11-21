@@ -1,0 +1,7 @@
+﻿  Tic-Tac-Toe.cpp
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Marcel\Desktop\GIT\Tic-Tac-Toe\Tic-Tac-Toe\Tic-Tac-Toe.cpp(197): warning C4715: "computer_move”: niewszystkie ścieżki kodu zwracają wartość
+  All 125 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  Tic-Tac-Toe.vcxproj -> C:\Users\Marcel\Desktop\GIT\Tic-Tac-Toe\x64\Release\Tic-Tac-Toe.exe
